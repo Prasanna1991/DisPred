@@ -25,6 +25,8 @@ Numpy (1.19.5)
 Pandas (1.1.5)
 Scikit-learn (0.24.2)
 
+pip3 install torch==1.7.0
+
 ## Example:
 Please keep the dataset in the associated folder and then, 
 
