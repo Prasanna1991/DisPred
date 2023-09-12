@@ -1,6 +1,6 @@
 # DisPred
 Code for running DisPred algorithm
-
+Please cite it as : [![DOI](https://zenodo.org/badge/517768793.svg)](https://zenodo.org/badge/latestdoi/517768793)
 
 ## Repo Contents
 
